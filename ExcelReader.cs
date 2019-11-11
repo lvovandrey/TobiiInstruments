@@ -93,6 +93,7 @@ namespace TobiiParser
             return tabOfKeys;
         }
 
+
         public static List<Interval> SeparatorIntervalsReadFromExcel(string filename)
         {
             //считываем данные из Excel файла в двумерный массив
